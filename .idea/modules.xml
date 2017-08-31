@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UnivFrame.iml" filepath="$PROJECT_DIR$/UnivFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnivFrame-page/UnivFrame-page.iml" filepath="$PROJECT_DIR$/UnivFrame-page/UnivFrame-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnivFrame-service/UnivFrame-service.iml" filepath="$PROJECT_DIR$/UnivFrame-service/UnivFrame-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnivFrame-web/UnivFrame-web.iml" filepath="$PROJECT_DIR$/UnivFrame-web/UnivFrame-web.iml" />
+    </modules>
+  </component>
+</project>
